@@ -1,3 +1,5 @@
 venv/
 resourses/
 .ipynb_checkpoints
+lab_01/.venv
+lab_01/.ipynb_checkpoints
