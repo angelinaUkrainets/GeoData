@@ -10,3 +10,6 @@ field_polygons.geojson
 /spatial_data/
 /lab_07/.venv/
 /resampled/
+/lab_06/.venv/
+field_centroids.geojson
+/soil_data/

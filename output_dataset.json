@@ -1,0 +1,750 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 1,
+            "name": "Pin4",
+            "soil": {
+                "clay": 21,
+                "sand": 38,
+                "density": 1149
+            },
+            "soil_moisture": 2785
+        },
+        "geometry": [
+            30.184082372130998,
+            49.995266264307425
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 2,
+            "name": "Pin17",
+            "soil": {
+                "clay": 21,
+                "sand": 37,
+                "density": 1212
+            },
+            "soil_moisture": 2813
+        },
+        "geometry": [
+            30.250268297428843,
+            49.98931843919832
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 3,
+            "name": "Shev7-8-9",
+            "soil": {
+                "clay": 22,
+                "sand": 35,
+                "density": 1184
+            },
+            "soil_moisture": 3158
+        },
+        "geometry": [
+            30.333908293755627,
+            50.01055996618192
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 4,
+            "name": "Shev10",
+            "soil": {
+                "clay": 21,
+                "sand": 31,
+                "density": 1187
+            },
+            "soil_moisture": 3274
+        },
+        "geometry": [
+            30.356892516426406,
+            50.018188398179774
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 5,
+            "name": "Tr5",
+            "soil": {
+                "clay": 21,
+                "sand": 32,
+                "density": 1215
+            },
+            "soil_moisture": 3243
+        },
+        "geometry": [
+            30.34537852788695,
+            50.02566009202623
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 6,
+            "name": "Shev6",
+            "soil": {
+                "clay": 19,
+                "sand": 30,
+                "density": 1187
+            },
+            "soil_moisture": 3310
+        },
+        "geometry": [
+            30.325118809276898,
+            50.02440806592541
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 7,
+            "name": "Tr4",
+            "soil": {
+                "clay": 21,
+                "sand": 31,
+                "density": 1194
+            },
+            "soil_moisture": 3296
+        },
+        "geometry": [
+            30.35368189063048,
+            50.0363619500153
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 8,
+            "name": "Tr3",
+            "soil": {
+                "clay": 20,
+                "sand": 26,
+                "density": 1205
+            },
+            "soil_moisture": 3450
+        },
+        "geometry": [
+            30.372986796752876,
+            50.04295994447788
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 9,
+            "name": "Tr2",
+            "soil": {
+                "clay": 18,
+                "sand": 30,
+                "density": 1263
+            },
+            "soil_moisture": 3350
+        },
+        "geometry": [
+            30.364549855584645,
+            50.047957903921386
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 10,
+            "name": "Tr10",
+            "soil": {
+                "clay": 21,
+                "sand": 26,
+                "density": 1209
+            },
+            "soil_moisture": 3382
+        },
+        "geometry": [
+            30.328995025042204,
+            50.033230476231786
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 11,
+            "name": "Tr9",
+            "soil": {
+                "clay": 21,
+                "sand": 26,
+                "density": 1225
+            },
+            "soil_moisture": 3379
+        },
+        "geometry": [
+            30.307523875063524,
+            50.042973119841896
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 12,
+            "name": "Shev4",
+            "soil": {
+                "clay": 20,
+                "sand": 30,
+                "density": 1211
+            },
+            "soil_moisture": 3282
+        },
+        "geometry": [
+            30.302607543170044,
+            50.029875212388255
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 13,
+            "name": "Tr1",
+            "soil": {
+                "clay": 20,
+                "sand": 26,
+                "density": 1230
+            },
+            "soil_moisture": 3579
+        },
+        "geometry": [
+            30.369898933630047,
+            50.07735504515745
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 14,
+            "name": "Tr2",
+            "soil": {
+                "clay": 17,
+                "sand": 31,
+                "density": 1217
+            },
+            "soil_moisture": 3487
+        },
+        "geometry": [
+            30.38099841609398,
+            50.069988737244095
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 15,
+            "name": "Yatz50",
+            "soil": {
+                "clay": 20,
+                "sand": 32,
+                "density": 1204
+            },
+            "soil_moisture": 3339
+        },
+        "geometry": [
+            30.4137134644596,
+            50.03161269012719
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 16,
+            "name": "Yatz220/1",
+            "soil": {
+                "clay": 17,
+                "sand": 34,
+                "density": 1212
+            },
+            "soil_moisture": 3332
+        },
+        "geometry": [
+            30.423946115838298,
+            50.03300594126003
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 17,
+            "name": "Yatz220/2",
+            "soil": {
+                "clay": 19,
+                "sand": 36,
+                "density": 1220
+            },
+            "soil_moisture": 3270
+        },
+        "geometry": [
+            30.43411885184169,
+            50.03274132613815
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 18,
+            "name": "Yatz36",
+            "soil": {
+                "clay": 20,
+                "sand": 36,
+                "density": 1225
+            },
+            "soil_moisture": 3258
+        },
+        "geometry": [
+            30.44503915052578,
+            50.03303109984244
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 18,
+            "name": "Yatz60",
+            "soil": {
+                "clay": 23,
+                "sand": 33,
+                "density": 1234
+            },
+            "soil_moisture": 3269
+        },
+        "geometry": [
+            30.453339883742505,
+            50.02240651050408
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 19,
+            "name": "Yatz45",
+            "soil": {
+                "clay": 20,
+                "sand": 35,
+                "density": 1239
+            },
+            "soil_moisture": 3228
+        },
+        "geometry": [
+            30.431159839185465,
+            50.01921491610042
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 21,
+            "name": "Yatz44",
+            "soil": {
+                "clay": 19,
+                "sand": 37,
+                "density": 1218
+            },
+            "soil_moisture": 3139
+        },
+        "geometry": [
+            30.39539044881708,
+            50.007702927187246
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 22,
+            "name": "Ks8",
+            "soil": {
+                "clay": 23,
+                "sand": 28,
+                "density": 1223
+            },
+            "soil_moisture": 3137
+        },
+        "geometry": [
+            30.240839844775817,
+            50.03725266832849
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 23,
+            "name": "Pin9",
+            "soil": {
+                "clay": 22,
+                "sand": 30,
+                "density": 1226
+            },
+            "soil_moisture": 3092
+        },
+        "geometry": [
+            30.24714347974856,
+            50.030903569884906
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 24,
+            "name": "Ks1",
+            "soil": {
+                "clay": 21,
+                "sand": 31,
+                "density": 1065
+            },
+            "soil_moisture": 3206
+        },
+        "geometry": [
+            30.211041637442243,
+            50.06570767130525
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 25,
+            "name": "Ks5",
+            "soil": {
+                "clay": 19,
+                "sand": 36,
+                "density": 1230
+            },
+            "soil_moisture": 3067
+        },
+        "geometry": [
+            30.224137583787027,
+            50.06357013537786
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 27,
+            "name": "Pin9/1",
+            "soil": {
+                "clay": 21,
+                "sand": 42,
+                "density": 1179
+            },
+            "soil_moisture": 2805
+        },
+        "geometry": [
+            30.25394086331786,
+            50.01769976112636
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 27,
+            "name": "pin10",
+            "soil": {
+                "clay": 22,
+                "sand": 40,
+                "density": 1109
+            },
+            "soil_moisture": 2956
+        },
+        "geometry": [
+            30.260568138787754,
+            50.02341695806416
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 29,
+            "name": "Shev3",
+            "soil": {
+                "clay": 20,
+                "sand": 30,
+                "density": 1073
+            },
+            "soil_moisture": 3363
+        },
+        "geometry": [
+            30.299223291833286,
+            50.03635988090474
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 30,
+            "name": "Shev2",
+            "soil": {
+                "clay": 22,
+                "sand": 31,
+                "density": 1230
+            },
+            "soil_moisture": 3252
+        },
+        "geometry": [
+            30.292012417227763,
+            50.044723928234326
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 31,
+            "name": "Shev1",
+            "soil": {
+                "clay": 22,
+                "sand": 35,
+                "density": 1168
+            },
+            "soil_moisture": 3178
+        },
+        "geometry": [
+            30.279328391688754,
+            50.042029292180274
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 32,
+            "name": "Ks11",
+            "soil": {
+                "clay": 21,
+                "sand": 38,
+                "density": 1079
+            },
+            "soil_moisture": 3130
+        },
+        "geometry": [
+            30.26634518066094,
+            50.03921700088513
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 32,
+            "name": "Ks6",
+            "soil": {
+                "clay": 21,
+                "sand": 33,
+                "density": 1161
+            },
+            "soil_moisture": 3180
+        },
+        "geometry": [
+            30.255300633433176,
+            50.04434224998322
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 34,
+            "name": "Ks7",
+            "soil": {
+                "clay": 22,
+                "sand": 30,
+                "density": 1204
+            },
+            "soil_moisture": 3141
+        },
+        "geometry": [
+            30.23858920350034,
+            50.04495117318539
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 36,
+            "name": "Tr6",
+            "soil": {
+                "clay": 18,
+                "sand": 27,
+                "density": 1249
+            },
+            "soil_moisture": 3386
+        },
+        "geometry": [
+            30.342053469338403,
+            50.04439201981612
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 36,
+            "name": "Tr10",
+            "soil": {
+                "clay": 20,
+                "sand": 30,
+                "density": 1215
+            },
+            "soil_moisture": 3317
+        },
+        "geometry": [
+            30.323009926627787,
+            50.04528558211443
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 38,
+            "name": "Tr8",
+            "soil": {
+                "clay": 19,
+                "sand": 34,
+                "density": 1225
+            },
+            "soil_moisture": 3242
+        },
+        "geometry": [
+            30.312375098569767,
+            50.05949550314979
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 38,
+            "name": "Tr8",
+            "soil": {
+                "clay": 22,
+                "sand": 26,
+                "density": 1219
+            },
+            "soil_moisture": 3390
+        },
+        "geometry": [
+            30.317233338136262,
+            50.053174592963785
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 39,
+            "name": "Tr7",
+            "soil": {
+                "clay": 17,
+                "sand": 29,
+                "density": 1245
+            },
+            "soil_moisture": 3387
+        },
+        "geometry": [
+            30.33528287123405,
+            50.06448815650528
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 40,
+            "name": "Tr7/1",
+            "soil": {
+                "clay": 18,
+                "sand": 29,
+                "density": 1239
+            },
+            "soil_moisture": 3394
+        },
+        "geometry": [
+            30.34448115085623,
+            50.06295931046618
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 41,
+            "name": "Ls3",
+            "soil": {
+                "clay": 21,
+                "sand": 37,
+                "density": 1232
+            },
+            "soil_moisture": 2786
+        },
+        "geometry": [
+            30.201224208071572,
+            50.024711290243495
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 42,
+            "name": "Ks2",
+            "soil": {
+                "clay": 19,
+                "sand": 34,
+                "density": 1256
+            },
+            "soil_moisture": 2872
+        },
+        "geometry": [
+            30.20840040063843,
+            50.02866189439028
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 42,
+            "name": "Ks15",
+            "soil": {
+                "clay": 22,
+                "sand": 33,
+                "density": 1185
+            },
+            "soil_moisture": 2967
+        },
+        "geometry": [
+            30.234119443670274,
+            50.027980603581575
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 82,
+            "name": "Ks12",
+            "soil": {
+                "clay": 22,
+                "sand": 28,
+                "density": 1211
+            },
+            "soil_moisture": 3066
+        },
+        "geometry": [
+            30.22765372202951,
+            50.032848069249354
+        ]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "id": 83,
+            "name": "Ks13",
+            "soil": {
+                "clay": 18,
+                "sand": 46,
+                "density": 1224
+            },
+            "soil_moisture": 2672
+        },
+        "geometry": [
+            30.220735144875057,
+            50.03570104293429
+        ]
+    }
+]
