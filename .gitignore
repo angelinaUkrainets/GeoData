@@ -6,3 +6,7 @@ lab_01/.ipynb_checkpoints
 lab_02/.venv
 lab_02/.ipynb_checkpoints
 example_dataset.geojson
+field_polygons.geojson
+/spatial_data/
+/lab_07/.venv/
+/resampled/
