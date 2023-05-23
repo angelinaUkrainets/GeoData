@@ -5,6 +5,8 @@ from flask_cors import CORS, cross_origin
 app = Flask(__name__)
 CORS(app)
 
+print("Done with help https://github.com/KoTuK777/GeoLabs/")
+
 file_path = '../dataPic.tif'
 with rasterio.open(file_path) as src:
   bbox = src.bounds
